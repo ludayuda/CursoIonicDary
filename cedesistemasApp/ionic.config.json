@@ -1,0 +1,7 @@
+{
+  "name": "cedesistemasApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
